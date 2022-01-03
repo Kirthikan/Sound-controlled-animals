@@ -1,0 +1,25 @@
+.header_div{
+    background: rgb(131, 128, 128);
+    color: rgb(150, 143, 143);
+}
+.header_div p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: lemonchiffon;
+    letter-spacing: 2px;
+    font-size: 15px;
+    font-weight: bold;
+}
+.copy_right_footer{
+    position: fixed;
+    color: rgb(255, 255, 255);
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: rgb(143, 142, 142);
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(0, 0, 0);
+}
+
+
+
